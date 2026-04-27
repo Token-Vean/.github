@@ -13,7 +13,8 @@ Los proyectos priorizan ejecución local, privacidad, trazabilidad, validación 
 - Transparencia sobre límites, riesgos y dependencias.
 - Utilidad práctica para archivos, bibliotecas, centros de documentación y unidades de gestión documental.
 
-- ## English
+
+## English
 
 A suite of local and open-source tools designed to support documentary processing, archival analysis, risk review, anonymization, and technical assistance in records and information management environments.
 
