@@ -12,3 +12,18 @@ Los proyectos priorizan ejecución local, privacidad, trazabilidad, validación 
 - Validación profesional obligatoria.
 - Transparencia sobre límites, riesgos y dependencias.
 - Utilidad práctica para archivos, bibliotecas, centros de documentación y unidades de gestión documental.
+
+- ## English
+
+A suite of local and open-source tools designed to support documentary processing, archival analysis, risk review, anonymization, and technical assistance in records and information management environments.
+
+The projects prioritize local execution, privacy, traceability, professional validation, and the responsible use of artificial intelligence.
+
+### Design principles
+
+- Local execution whenever possible.
+- Minimization of data transfer to external services.
+- Traceability of decisions and outputs.
+- Mandatory professional validation.
+- Transparency regarding limitations, risks, and dependencies.
+- Practical usefulness for archives, libraries, documentation centers, and records management units.
